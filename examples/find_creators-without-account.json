@@ -1,0 +1,49 @@
+{
+  "status": "sign_in_needed",
+  "signed_in": false,
+  "signup_url": "https://creatorsxbrands.com/connect",
+  "instant_matches": [
+    {
+      "handle": "abnim0",
+      "name": "abnim",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@abnim0",
+      "who": "ER nurse, night shift",
+      "why": "Started new ER job and posts night shift ER nurse content.",
+      "followers": 2453,
+      "typical_views": 5362,
+      "views_to_followers": 2.19,
+      "last_post_days": 11,
+      "best_video": "https://www.tiktok.com/@abnim0/video/7690239329129467149",
+      "contact": "shown once you have a free CxB account",
+      "checked_for": "graded exact for \"ER nurses who work nights (must: works as an ER (emergency) nurse; works night shifts)\" on 2026-11-05",
+      "matched_on": [
+        "er",
+        "nurse",
+        "night"
+      ]
+    },
+    {
+      "handle": "ernursejames",
+      "name": "Nurse James",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@ernursejames",
+      "who": "ER travel nurse, nights",
+      "why": "ER travel nurse with CEN/TCRN who posts #nightshift ER content.",
+      "followers": 10774,
+      "typical_views": 21759,
+      "views_to_followers": 2.02,
+      "last_post_days": 10,
+      "best_video": "https://www.tiktok.com/@ernursejames/video/7680551041057819934",
+      "contact": "shown once you have a free CxB account",
+      "checked_for": "graded exact for \"ER nurses who work nights (must: works as an ER (emergency) nurse; works night shifts)\" on 2026-11-05",
+      "matched_on": [
+        "er",
+        "nurse",
+        "night"
+      ]
+    }
+  ],
+  "instant_note": "Creators CxB already checked for an earlier brief that look like yours. They are not graded against your exact must-haves; a fresh search does that and finds new ones.",
+  "next": "Show the user the creators above: CxB already checked them. No fresh search was started. CxB needs a free account: 3 free searches, no card. Give the user this link to sign up and connect this AI with their own CxB link: https://creatorsxbrands.com/connect . Don't ask for their email yourself; the signup page does that. Then they ask again."
+}
